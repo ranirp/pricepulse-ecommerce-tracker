@@ -20,7 +20,7 @@ import Link from 'next/link'
             />
 
             <p className="nav-logo">
-                Price<span className='text-primary'>Wise</span>
+                Price<span className='text-primary'>Pulse</span>
             </p>
             </Link>
 
